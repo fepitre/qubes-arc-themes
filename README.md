@@ -1,2 +1,2 @@
 # qubes-arc-theme
-Arc theme with colors of QubesOS
+Arc themes with colors of QubesOS
